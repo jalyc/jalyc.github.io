@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jalyc.me/"/>
-  <updated>2018-10-27T18:12:36.229Z</updated>
+  <updated>2018-10-28T15:37:23.970Z</updated>
   <id>http://jalyc.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://jalyc.me/2018/10/28/My-New-Post/"/>
     <id>http://jalyc.me/2018/10/28/My-New-Post/</id>
     <published>2018-10-27T18:10:31.000Z</published>
-    <updated>2018-10-27T18:12:36.229Z</updated>
+    <updated>2018-10-28T15:37:23.970Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,40 @@
     
     </summary>
     
+      <category term="Testing" scheme="http://jalyc.me/categories/Testing/"/>
+    
+    
+      <category term="Testing" scheme="http://jalyc.me/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://jalyc.me/tags/Another-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://jalyc.me/2013/07/13/hello-world/"/>
+    <id>http://jalyc.me/2013/07/13/hello-world/</id>
+    <published>2013-07-13T12:46:25.000Z</published>
+    <updated>2018-10-28T15:36:28.444Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="Testing" scheme="http://jalyc.me/categories/Testing/"/>
+    
+    
+      <category term="Testing" scheme="http://jalyc.me/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://jalyc.me/tags/Another-Tag/"/>
     
   </entry>
   

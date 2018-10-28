@@ -45,7 +45,7 @@ rss:
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  since: ©2018
+  since: 2017
 
   # Icon between year and copyright info.
   icon: user
@@ -534,9 +534,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: false
-  app_id: #<app_id>
-  app_key: #<app_key>
+  enable: true
+  app_id: 9qtQYEIIlbqsA9LnI8AJvYFt-gzGzoHsz
+  app_key: yfyGrPD8WWGDQM5fFd20UvBH
 
 # Another tool to show number of visitors to each article.
 # visit https://console.firebase.google.com/u/0/ to get apiKey and projectId
