@@ -190,12 +190,12 @@ social_icons:
 #github_banner: https://github.com/yourname || Follow me on GitHub
 
 # Blog rolls
-links_icon: link
-links_title: Links
-links_layout: block
+#links_icon: link
+#links_title: Links
+#links_layout: block
 #links_layout: inline
-links:
-  Title: http://example.com/
+#links:
+  #Title: http://example.com/
 
 # Sidebar Avatar
 avatar:
@@ -442,7 +442,7 @@ font:
 
 # Math Equations Render Support
 math:
-  enable: false
+  enable: true
 
   # Default(true) will load mathjax/katex script on demand
   # That is it only render those page who has 'mathjax: true' in Front Matter.
