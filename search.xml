@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[addLoadEvent：一个共享onLoad触发事件的JavaScript函数]]></title>
+    <url>%2F2018%2F10%2F28%2FaddLoadEvent%2F</url>
+    <content type="text"><![CDATA[函数说明一个共享onLoad的JavaScript函数，适用于HTML页面加载完毕之后需要同时触发多个onLoadJS事件，由Simon Willison 编写。 函数代码1234567891011121314151617181920212223242526/* test为需要加载的函数名 */addLoadEvent(test);/** * [addLoadEvent description] * @param &#123;[type]&#125; func [description] */function addLoadEvent(func) &#123; var oldonload = window.onload; if (typeof window.onload != "function") &#123; window.onload = func; &#125; else &#123; window.onload = function() &#123; oldonload(); func(); &#125;; &#125;&#125;/** * [test description] * @return &#123;[type]&#125; [description] */function test() &#123; //你的代码&#125;]]></content>
+      <categories>
+        <category>JavaScript</category>
+      </categories>
+      <tags>
+        <tag>Js</tag>
+      </tags>
+  </entry>
+</search>
