@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jalyc.me/"/>
-  <updated>2018-10-30T00:22:19.130Z</updated>
+  <updated>2018-11-06T02:54:16.719Z</updated>
   <id>http://jalyc.me/</id>
   
   <author>
@@ -17,24 +17,28 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
+    <title>addLoadEvent：一个共享onLoad触发事件的JavaScript函数</title>
     <link href="http://jalyc.me/2018/10/28/My-New-Post/"/>
     <id>http://jalyc.me/2018/10/28/My-New-Post/</id>
     <published>2018-10-27T18:10:31.000Z</published>
-    <updated>2018-10-30T00:22:19.130Z</updated>
+    <updated>2018-11-06T02:54:16.719Z</updated>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;博客的来源&quot;&gt;&lt;a href=&quot;#博客的来源&quot; class=&quot;headerlink&quot; title=&quot;博客的来源&quot;&gt;&lt;/a&gt;博客的来源&lt;/h2&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo,
+      
+      
+        
+        
+          &lt;h2 id=&quot;函数说明&quot;&gt;&lt;a href=&quot;#函数说明&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
-      <category term="Testing" scheme="http://jalyc.me/categories/Testing/"/>
+      <category term="JavaScript" scheme="http://jalyc.me/categories/JavaScript/"/>
     
     
-      <category term="Testing" scheme="http://jalyc.me/tags/Testing/"/>
-    
-      <category term="Another Tag" scheme="http://jalyc.me/tags/Another-Tag/"/>
+      <category term="Js" scheme="http://jalyc.me/tags/Js/"/>
     
   </entry>
   
